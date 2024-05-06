@@ -71,3 +71,20 @@ footer {
     font-size: 25px;
     font-weight: bolder;
 }
+
+.caja{
+    width:95%;
+    background-color:#90EE90;
+    box-shadow: 0.5em 0.5em 0.5em black;
+	border: 1px solid blue;
+	margin:  1em auto;
+    min-height: 4em;
+    display: flex;
+    align-items: center;
+}
+
+.iconoCondiciones {
+    margin: 0.5em;
+    width: 3em;
+    height: 3em;
+}
